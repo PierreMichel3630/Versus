@@ -1,0 +1,42 @@
+{
+  "appname": "Contro",
+  "description": "Un gioco che preferisci su diversi temi: film, serie, giocatori NBA, ...",
+  "commun": {
+    "launch": "Gettare",
+    "next": "Seguente",
+    "quit": "Lasciare",
+    "notknow": "Non sapere ?",
+    "play": "Giocare",
+    "playrandom": "Gioca in modalità casuale",
+    "playwinstay": "Resta la possibilità di giocare in modalità vincitore",
+    "ranking": "classifica",
+    "themes": "Temi",
+    "win": "Vittoria",
+    "lose": "Sconfitta",
+    "dontknow": "Non conosciuto",
+    "percentwin": "% vittoria",
+    "theme": "Tema",
+    "selecttheme": "Seleziona un tema",
+    "win_one": "Vittoria",
+    "win_many": "Vittorie",
+    "win_other": "Vittorie",
+    "defeat_one": "Sconfitta",
+    "defeat_many": "Sconfitte",
+    "defeat_other": "Sconfitte"
+  },
+  "mode": {
+    "winstay": {
+      "label": "Modalità Vincitore Rimane",
+      "tooltip": "La tua scelta rimane per il turno successivo."
+    },
+    "random": {
+      "label": "Modalità casuale",
+      "tooltip": "Ad ogni turno le 2 scelte cambiano."
+    }
+  },
+  "pages": {
+    "home": {
+      "title": "Benvenuto"
+    }
+  }
+}

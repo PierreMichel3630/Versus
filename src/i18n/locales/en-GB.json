@@ -1,0 +1,40 @@
+{
+  "appname": "Versus",
+  "description": "A game you prefer on different themes: Films, Series, NBA Players, ...",
+  "commun": {
+    "launch": "Throw",
+    "next": "Following",
+    "quit": "To leave",
+    "notknow": "Not know ?",
+    "play": "Play",
+    "playrandom": "Play in random mode",
+    "playwinstay": "Playing in winner mode stay",
+    "ranking": "Ranking",
+    "themes": "Themes",
+    "win": "Victory",
+    "lose": "Defeat",
+    "dontknow": "Not known",
+    "percentwin": "% victory",
+    "theme": "Theme",
+    "selecttheme": "Select a theme",
+    "win_one": "Victory",
+    "win_other": "Victories",
+    "defeat_one": "Defeat",
+    "defeat_other": "Defeats"
+  },
+  "mode": {
+    "winstay": {
+      "label": "Winner Stays Mode",
+      "tooltip": "Your choice remains for the next round."
+    },
+    "random": {
+      "label": "Random Mode",
+      "tooltip": "Each turn the 2 choices change."
+    }
+  },
+  "pages": {
+    "home": {
+      "title": "Welcome"
+    }
+  }
+}

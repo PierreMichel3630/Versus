@@ -1,0 +1,42 @@
+{
+  "appname": "Versus",
+  "description": "Un juego que prefieras sobre diferentes temáticas: Películas, Series, Jugadores de la NBA,...",
+  "commun": {
+    "launch": "Tirar",
+    "next": "Siguiente",
+    "quit": "Dejar",
+    "notknow": "No saber ?",
+    "play": "Jugar",
+    "playrandom": "Juega en modo aleatorio",
+    "playwinstay": "Se mantiene el modo ganador",
+    "ranking": "Clasificación",
+    "themes": "Temas",
+    "win": "Victoria",
+    "lose": "Fracaso",
+    "dontknow": "No conocida",
+    "percentwin": "% victoria",
+    "theme": "Tema",
+    "selecttheme": "Selecciona un tema",
+    "win_one": "Victoria",
+    "win_many": "Victorias",
+    "win_other": "Victorias",
+    "defeat_one": "Fracaso",
+    "defeat_many": "Derrotas",
+    "defeat_other": "Derrotas"
+  },
+  "mode": {
+    "winstay": {
+      "label": "Modo de estancia del ganador",
+      "tooltip": "Tu elección queda para la siguiente ronda."
+    },
+    "random": {
+      "label": "Modo aleatorio",
+      "tooltip": "Cada turno las 2 opciones cambian."
+    }
+  },
+  "pages": {
+    "home": {
+      "title": "Bienvenido"
+    }
+  }
+}

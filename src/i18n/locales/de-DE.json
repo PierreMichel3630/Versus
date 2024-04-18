@@ -1,0 +1,40 @@
+{
+  "appname": "Gegen",
+  "description": "Ein Spiel, das Sie zu verschiedenen Themen bevorzugen: Filme, Serien, NBA-Spieler, ...",
+  "commun": {
+    "launch": "Werfen",
+    "next": "Nachfolgend",
+    "quit": "Verlassen",
+    "notknow": "Nicht wissen ?",
+    "play": "Spielen",
+    "playrandom": "Spielen Sie im Zufallsmodus",
+    "playwinstay": "Das Spielen im Gewinnermodus bleibt bestehen",
+    "ranking": "Rangfolge",
+    "themes": "Themen",
+    "win": "Sieg",
+    "lose": "Verlust",
+    "dontknow": "Nicht bekannt",
+    "percentwin": "% Sieg",
+    "theme": "Thema",
+    "selecttheme": "Wähle ein Thema",
+    "win_one": "Sieg",
+    "win_other": "Siege",
+    "defeat_one": "Verlust",
+    "defeat_other": "Niederlagen"
+  },
+  "mode": {
+    "winstay": {
+      "label": "Gewinner bleibt-Modus",
+      "tooltip": "Ihre Wahl bleibt für die nächste Runde bestehen."
+    },
+    "random": {
+      "label": "Zufallsmodus",
+      "tooltip": "In jeder Runde ändern sich die beiden Auswahlmöglichkeiten."
+    }
+  },
+  "pages": {
+    "home": {
+      "title": "Willkommen"
+    }
+  }
+}
